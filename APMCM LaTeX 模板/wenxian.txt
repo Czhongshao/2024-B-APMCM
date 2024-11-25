@@ -1,0 +1,32 @@
+@article{olszewska2024modeling,
+  title={Modeling the Geometry and Filter Composite of the Air Cleaner},
+  author={Olszewska, Pola Kalina and Pinkos, Justyna and Borkowski, Dominik and Jablonski, Maciej},
+  journal={Materials},
+  volume={17},
+  number={20},
+  pages={4969},
+  year={2024},
+  publisher={MDPI}
+}
+
+@article{sadrizadeh2022indoor,
+  title={Indoor air quality and health in schools: A critical review for developing the roadmap for the future school environment},
+  author={Sadrizadeh, Sasan and Yao, Runming and Yuan, Feng and Awbi, Hazim and Bahnfleth, William and Bi, Yang and Cao, Guangyu and Croitoru, Cristiana and de Dear, Richard and Haghighat, Fariborz and others},
+  journal={Journal of Building Engineering},
+  volume={57},
+  pages={104908},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{zhu2002concentration,
+  title={Concentration and size distribution of ultrafine particles near a major highway},
+  author={Zhu, Yifang and Hinds, William C and Kim, Seongheon and Sioutas, Constantinos},
+  journal={Journal of the air \& waste management association},
+  volume={52},
+  number={9},
+  pages={1032--1042},
+  year={2002},
+  publisher={Taylor \& Francis}
+}
+

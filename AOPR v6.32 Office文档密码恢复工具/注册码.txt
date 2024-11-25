@@ -1,0 +1,5 @@
+- Disable internet and use the below during install:
+
+AOPR4-153-KIOH7-774Q0-LPGUK-16KZZ
+
+- Block in firewall.
